@@ -2,7 +2,7 @@
 
 
 ### About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCenter=true&lines=I+am+a+Frontend+developer.;I+love+writing+React+codes.;I+am+a+designer.;I+can+help+you+with+your+project.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCenter=true&lines=I+am+a+Frontend+developer.;I+love+writing+React+codes.;I+am+a+web+designer.;I+can+help+you+with+your+project.)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra03k&label=Profile%20views&color=0e75b6&style=flat" alt="narendra03k" /> </p>
