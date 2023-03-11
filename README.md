@@ -39,6 +39,6 @@
 <a href="https://twitter.com/narendra03k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narendra03k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/narendra-kumar-73699a20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra-kumar-73699a20a" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/narendrak_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="narendrak_03" height="30" width="40" /></a>
-<a href="https://instagram.com/_narendra03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_narendra03" height="30" width="40" /></a>
+<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_narendra03" height="30" width="40" /></a>
 
 </p>
