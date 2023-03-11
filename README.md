@@ -19,8 +19,6 @@
 
 - 💬 Ask me about **react, vue and Web Development.**
 
-- 📫 How to reach me: **nickk2448@gmail.com**
-
 - ⚡ Fun fact: **I think I am quite funny.**
 
 ### Skills and Tools: &nbsp; <img alt="Narendra's skills" width="26px" height="26px" src="https://user-images.githubusercontent.com/87755170/184556702-1fd41654-cbd8-4066-b7cb-a90a12bdc5d1.gif" /> 
