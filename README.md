@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/narendra03k" target="blank"><img src="https://img.shields.io/twitter/follow/narendra03k?logo=twitter&style=for-the-badge" alt="narendra03k" /></a> </p>
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/Narendra03K/Expense-Tracker)
+- 🔭 I’m recently worked on [Expense Tracker](https://github.com/Narendra03K/Expense-Tracker)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **MERN Stack projects.**
+- 👯 I’m looking forward to **MERN Stack projects.**
 
 - 📝 About me : Always ready to learn.
 
