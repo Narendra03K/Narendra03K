@@ -1,4 +1,4 @@
-## Hi, I'm [Narendra Kumar](https://www.linkedin.com/in/narendra-kumar-73699a20a/) &nbsp; <img src="https://user-images.githubusercontent.com/87755170/184556521-557622be-bb3b-4393-a20c-7a5874983ee8.gif" width="24px" height="24px" />
+## Hi, I'm [Narendra Kumar](https://www.linkedin.com/) &nbsp; <img src="https://user-images.githubusercontent.com/87755170/184556521-557622be-bb3b-4393-a20c-7a5874983ee8.gif" width="24px" height="24px" />
 
 
 ### About Me:
