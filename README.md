@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/narendra03k" target="blank"><img src="https://img.shields.io/twitter/follow/narendra03k?logo=twitter&style=for-the-badge" alt="narendra03k" /></a> </p>
 
-- 🔭 I’m recently worked on [Expense Tracker](https://github.com/Narendra03K/Expense-Tracker)
+- 🔭 I have recently worked on [Expense Tracker](https://github.com/Narendra03K/Expense-Tracker)
 
 - 🌱 I’m currently learning **Flutter**
 
