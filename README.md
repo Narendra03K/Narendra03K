@@ -36,9 +36,9 @@
 
 ### Connect with me: <img alt="Aditya's skills" width="64px" height="30px" src="https://user-images.githubusercontent.com/87755170/184556805-158da890-3181-4a36-a6e0-9dbd1b0d07ac.gif" />
 <p align="left">
-<a href="https://twitter.com/narendra03k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narendra03k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/narendra-kumar-73699a20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra-kumar-73699a20a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/narendrak_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="narendrak_03" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narendra03k" height="30" width="40" /></a>
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra-kumar-73699a20a" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="narendrak_03" height="30" width="40" /></a>
 <a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_narendra03" height="30" width="40" /></a>
 
 </p>
